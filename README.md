@@ -1,12 +1,43 @@
-# Awwwards-remake-METALUXE
-Awwwards remake | METALUXE | HTML5 CSS3 REACT JSX LOCOMOTIVE SCROLL
+# SuitVerse — Awwwards Remake
 
-# This Website was crafted by - @chaniru.lk - Instagram
+A stylish **Awwwards-inspired** fashion landing page built using **React**, **JSX**, **Locomotive Scroll**, and **modern CSS3** techniques.
+
+Live Site: [Check it out here](https://suit-verse.vercel.app)
+
+---
+
+## Tech Stack
+
+- HTML5 / CSS3
+- React.js
+- JSX
+- Locomotive Scroll
+- Framer Motion
+- Styled Components
+
+---
+
+## Preview
+
 ![Screenshot](Screenshot.png)
 
-# About the AUTHOR
+---
 
-<h1>FOLLOW ME ON INSTAGRAM - @chaniru.lk</h1>
+## About
 
-For more designs and inspiring website development /
-awwwards remakes :-)
+This is a remake of an Awwwards-level concept site to showcase smooth scrolling animations, modern typography, and responsive UI tailored for a futuristic fashion brand in Web3.
+
+---
+
+## 👤 Author
+
+**Angel Malhotra**  
+[@angelmalhotra1801](https://www.github.com/angelmalhotra1801)
+
+---
+
+## 🚀 Setup & Run Locally
+
+```bash
+npm install
+npm start
