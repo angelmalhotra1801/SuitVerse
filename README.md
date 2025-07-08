@@ -19,7 +19,7 @@ Live Site: [Check it out here](https://suit-verse.vercel.app)
 
 ## Preview
 
-![Screenshot](Screenshot.png)
+![Screenshot](suitverse.jpg)
 
 ---
 
